@@ -1,0 +1,6 @@
+print("ingrese el dividendo")
+n1=int(input())
+print("ingrese el divisor")
+n2=int(input())
+division=(n1 / n2)
+print("el resultado es:", division)
